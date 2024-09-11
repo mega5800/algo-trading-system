@@ -35,7 +35,7 @@ Here are the steps for using the system by running the different jupyter noteboo
 1. Extract financial sentiment from news headlines CSV file<br>
 Run ```Financial_Sentiment_Extraction_System.ipynb``` notebook for extracting the financial sentiment for each trading day.
 The final output from this notebook should be a new column called ```Sentiment```, added to the stock data CSV file.
-This new column contains the sentiment score, where sentiment score ∈ {-1, 0, 1}.<br>
+This new column contains the sentiment score, where sentiment score ∈ {-1, 0, 1}.
 This output should be saved under the name ```processed_TSLA.csv```.<br>
 
 2. Predicate TSLA Close Prices<br>
