@@ -17,7 +17,7 @@ This file must contain the next columns:<br>
 
 
 2. CSV file containing the desired stock data<br>
-In our research, we used this [Kaggle dataset](https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021) containing different TSLA stock price data for over a decade.
+In our research, we used [Yahoo Finance](https://uk.finance.yahoo.com/) to obtain different TSLA stock price data for over a decade.
 <br><br>
 This file must contain the next columns:<br>
 2.1 Trading day date.<br>
