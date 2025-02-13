@@ -1,10 +1,4 @@
 # Autonomous Stock Trading System
-Submitted by:<br>
-Shartil Shartilov - 22085025<br>
-Riaz Khan – 23068308<br>
-Najeeb Ullah - 23061856
-<hr>
-
 ## Required Data for the System
 In order to use the system, we require two types of data:
 1. CSV file containing news headlines regarding desired stock<br>
