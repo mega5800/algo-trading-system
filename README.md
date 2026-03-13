@@ -41,5 +41,5 @@ This output should be saved under the name ```Processed_predicted_TSLA.csv```.<b
 3. Training Deep Reinforcement Learning Agent<br>
 At this stage, we should have a stock data CSV file with additional columns ```Sentiment``` and ```Predicted_Close```.<br>
 In [RL Logic](https://github.com/mega5800/algo-trading-system/tree/master/Code/3.%20RL%20Logic) folder, we have the original full state notebook and a modified notebook for conducting an abletion study.<br> 
-In each notebook, we train an A2C agent with a different set of available data in its environment.
+In each notebook, we train an A2C agent with a different set of available data in its environment.<br>
 By doing so, we can assess what are the effective pieces of information for training an optimal agent for autonomous stock trading.
